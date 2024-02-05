@@ -34,6 +34,9 @@ Cookie: TrackingId=qkCHjiQ1vFDsyuM9; session=Z45XKTGEiRzjgxX4DI0FghPF7rnC5hsk
 ![image](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/2ca9eb57-88bf-4ae2-b609-4b17df0130bc)
 
 
+passowrd: zoanr3lqw9odk651afsc
 
+![image](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/4bc81661-b770-4c5f-ae00-ffcf533be3b5)
 
+![image](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/a914b59c-42c4-4fa7-bea4-39eb240009f5)
 
